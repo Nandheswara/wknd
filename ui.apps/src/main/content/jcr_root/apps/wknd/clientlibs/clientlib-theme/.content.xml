@@ -4,5 +4,5 @@
     allowProxy="{Boolean}true"
     categories="[wknd.site]"
     cssProcessor="[default:none,min:none]"
-    dependencies="[wknd.dependencies]"
+    dependencies="[wknd.dependencies,granite.jquery]"
     jsProcessor="[default:none,min:none]"/>
